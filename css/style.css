@@ -1,0 +1,21 @@
+header{
+    background-color: azure;
+    font-size: 18pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+    font-weight: bold;
+}
+
+h1{
+    background-color: cornflowerblue;
+    font-size: 20pt;
+    font-family: Times;
+    color:yellow;
+    font-weight: bolder;
+}
+
+body{
+    background-color:lightskyblue;
+    font-size: 15pt;
+    font-family: sans-serif;
+}
